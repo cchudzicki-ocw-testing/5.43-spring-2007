@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a schedule of lecture topics, and lecture handouts
+  for the first half of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

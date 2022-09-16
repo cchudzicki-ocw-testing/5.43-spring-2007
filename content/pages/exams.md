@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides examples of exams for the course, practice exams,
+  and a sample solution provided as an example of what is considered a thorough answer
+  to an exam question.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
